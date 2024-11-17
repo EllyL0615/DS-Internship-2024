@@ -1,0 +1,7 @@
+· Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron
+
+· The Elements of Statistical Learning - Trevor Hastie， Robert Tibshirani， Jerome Friedman
+
+· Geosteering by exact inference on a Bayesian network - Hugh Winkler
+
+· Enhancing microseismic/acoustic emission source localization accuracy with an outlier-robust kernel density estimation approach - Jie Chen, Huiqiong Huang, Yichao Rui, Yuanyuan Pu, Sheng Zhang, Zheng Li, Wenzhong Wang
